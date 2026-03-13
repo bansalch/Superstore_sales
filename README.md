@@ -20,7 +20,6 @@ The project demonstrates practical skills in data cleaning, transformation, quer
 - MySQL (SQL Workbench 8.0)  
 - Power BI Desktop  
 - GitHub  
-
 ---
 
 ## 📂 Project Structure
@@ -33,7 +32,6 @@ Superstore-BI-Project
 ├── PowerBI_Dashboard.pbix
 ├── Business_Insight_Report.docx
 └── README.md
-
 
 ---
 
