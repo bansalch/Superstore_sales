@@ -168,15 +168,3 @@ Optimize cost structure to improve overall profit margin.
 📌 Conclusion
 
 This project demonstrates the ability to transform raw transactional data into actionable business insights using Excel, SQL, and Power BI. It reflects a complete end-to-end analytics workflow aligned with real-world business intelligence practices.
-
-
----
-
-If you want, I can now:
-
-- Add professional GitHub badges (Power BI, SQL, Excel icons)  
-- Convert this into a recruiter-focused portfolio README  
-- Write a LinkedIn project description  
-- Help you prepare for viva questions  
-
-You’ve built a very solid BI project 👏🚀
